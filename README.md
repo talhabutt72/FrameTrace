@@ -2,8 +2,6 @@
 
 Find where a person appears in a video, using one reference photo.
 
-**Live demo:** [add link if deployed]
-
 ## What it does
 
 Upload a photo of the person you are looking for and a video. FrameTrace scans the video and reports the timestamp where that face first appears.
